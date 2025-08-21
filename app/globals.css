@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom styles for math rendering */
+.katex {
+  font-size: 1.1em;
+}
+
+.katex-display {
+  margin: 1em 0;
+}
+
+/* Bluebook-style question styling */
+.question-text {
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+.question-text p {
+  margin-bottom: 1rem;
+}
+
+/* Option styles */
+.option-button {
+  @apply w-full text-left p-4 border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors;
+}
+
+.option-button.selected {
+  @apply bg-blue-50 border-blue-500;
+}
+
+.option-button.eliminated {
+  @apply opacity-50;
+}
+
+.option-button.eliminated .option-text {
+  text-decoration: line-through;
+}
+
+/* Timer styles */
+.timer {
+  @apply bg-gray-100 px-4 py-2 rounded-lg font-mono text-lg;
+}
+
+.timer.warning {
+  @apply bg-yellow-100 text-yellow-800;
+}
+
+.timer.critical {
+  @apply bg-red-100 text-red-800;
+}
+
+/* Navigation styles */
+.nav-button {
+  @apply px-6 py-2 rounded-lg font-medium transition-colors;
+}
+
+.nav-button.primary {
+  @apply bg-blue-600 text-white hover:bg-blue-700;
+}
+
+.nav-button.secondary {
+  @apply bg-gray-200 text-gray-700 hover:bg-gray-300;
+}
+
+.nav-button:disabled {
+  @apply opacity-50 cursor-not-allowed;
+}
+
+/* Question menu grid */
+.question-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
+  gap: 8px;
+}
+
+.question-grid-item {
+  @apply w-10 h-10 border border-gray-300 rounded flex items-center justify-center text-sm font-medium cursor-pointer hover:bg-gray-50;
+}
+
+.question-grid-item.current {
+  @apply bg-blue-600 text-white;
+}
+
+.question-grid-item.answered {
+  @apply bg-green-100 border-green-500 text-green-700;
+}
+
+.question-grid-item.flagged {
+  @apply bg-yellow-100 border-yellow-500 text-yellow-700;
+}
+
+.question-grid-item.unanswered {
+  @apply bg-white border-gray-300 text-gray-700;
+}
