@@ -1,13 +1,8 @@
-
 import { NextResponse } from 'next/server';
 
 export async function GET() {
-  // This route is now static to prevent build timeouts.
-  // The image requirements are hardcoded based on the known tests.
-  return NextResponse.json({
-    success: true,
-    requirements: {
-      "June 2025 US 1": [
+  const requirements = {
+    "June 2025 US 1": [
         { section: "Section 1, Module 1: Reading and Writing", questionId: "11", filename: "june_2025_us_1_s1m1_q11.png", description: "Requires image." },
         { section: "Section 1, Module 1: Reading and Writing", questionId: "13", filename: "june_2025_us_1_s1m1_q13.png", description: "Requires image." },
         { section: "Section 1, Module 2: Reading and Writing", questionId: "10", filename: "june_2025_us_1_s1m2_q10.png", description: "Requires image." },
@@ -56,12 +51,16 @@ export async function GET() {
         { section: "Section 2, Module 2: Math", questionId: "10", filename: "may_2025_int_1_s2m2_q10.png", description: "Requires image." },
         { section: "Section 2, Module 2: Math", questionId: "12", filename: "may_2025_int_1_s2m2_q12.png", description: "Requires image." }
       ]
-    },
-    summary: {
-      totalTests: 4,
-      totalQuestions: 380,
-      totalImagesRequired: 42,
-      overallPercentage: 11
-    }
+  };
+
+  const summary = {
+    totalTests: 4,
+    totalQuestions: 380,
+    totalImagesRequired: 42,
+    overallPercentage: 11
+  };
+
+  return new Response(JSON.stringify({ success: true, requirements, summary }), {
+    headers: { 'Content-Type': 'application/json' },
   });
 }
