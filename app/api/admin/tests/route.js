@@ -1,22 +1,27 @@
-import { kv } from '@vercel/kv'
+import { list } from '@vercel/blob'
 import { NextResponse } from 'next/server'
 
 export async function GET() {
   try {
-    // Get all test keys
-    const keys = await kv.keys('test:*')
+    // Get all test blobs
+    const { blobs } = await list({ prefix: 'tests/', limit: 1000 })
     const tests = []
 
     // Fetch all tests
-    for (const key of keys) {
-      const test = await kv.get(key)
-      if (test) {
-        tests.push({
-          testId: test.testId,
-          title: test.title,
-          totalQuestions: test.questions?.length || 0,
-          createdAt: test.createdAt
-        })
+    for (const blob of blobs) {
+      try {
+        const response = await fetch(blob.url)
+        const test = await response.json()
+        if (test) {
+          tests.push({
+            testId: test.testId,
+            title: test.title,
+            totalQuestions: test.questions?.length || 0,
+            createdAt: test.createdAt
+          })
+        }
+      } catch (err) {
+        console.warn('Failed to parse test blob:', blob.pathname)
       }
     }
 

@@ -1,4 +1,4 @@
-import { kv } from '@vercel/kv'
+import { list } from '@vercel/blob'
 import { NextResponse } from 'next/server'
 
 export async function GET(request, { params }) {
@@ -12,14 +12,18 @@ export async function GET(request, { params }) {
       )
     }
 
-    const resultData = await kv.get(`result:${resultId}`)
-
-    if (!resultData) {
+    // Fetch result from Vercel Blob
+    const { blobs } = await list({ prefix: `results/${resultId}.json`, limit: 1 })
+    
+    if (blobs.length === 0) {
       return NextResponse.json(
         { error: 'Result not found' },
         { status: 404 }
       )
     }
+
+    const response = await fetch(blobs[0].url)
+    const resultData = await response.json()
 
     return NextResponse.json(resultData)
   } catch (error) {

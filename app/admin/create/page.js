@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation'
 import Link from 'next/link'
 import { Upload, FileText, Image, CheckCircle, AlertCircle, ArrowLeft } from 'lucide-react'
 import { upload } from '@vercel/blob/client'
+import { EnhancedSATParser } from '../../../utils/enhanced-parser'
 
 export default function CreateTestPage() {
   const router = useRouter()
@@ -16,8 +17,26 @@ export default function CreateTestPage() {
   const [uploadProgress, setUploadProgress] = useState(0)
   const [error, setError] = useState('')
   const [createdTest, setCreatedTest] = useState(null)
+  const [imageRequirements, setImageRequirements] = useState([])
 
   const parseTestFile = (content) => {
+    try {
+      const parser = new EnhancedSATParser()
+      const parsedData = parser.parseTestFile(content, testTitle)
+      const questions = parser.convertToLegacyFormat(parsedData)
+      
+      // Store image requirements for display
+      setImageRequirements(parser.generateImageRequirementsList(parsedData))
+      
+      return questions
+    } catch (error) {
+      console.error('Enhanced parser error:', error)
+      // Fallback to original parser for backward compatibility
+      return parseTestFileOriginal(content)
+    }
+  }
+
+  const parseTestFileOriginal = (content) => {
     const lines = content.split('\n').map(line => line.trim()).filter(line => line)
     const questions = []
     let currentQuestion = null

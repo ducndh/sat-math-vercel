@@ -123,6 +123,11 @@ export default function QuestionViewer({
           const isSelected = selectedAnswer === optionLetter
           const isEliminated = eliminatedOptions.includes(optionLetter)
           
+          // Check if this option is an image URL
+          const isImageOption = typeof option === 'string' && (
+            option.startsWith('http') && (option.includes('.png') || option.includes('.jpg') || option.includes('.jpeg') || option.includes('.gif'))
+          )
+          
           return (
             <div key={optionLetter} className="relative">
               <button
@@ -137,9 +142,24 @@ export default function QuestionViewer({
                   }`}>
                     {optionLetter}
                   </div>
-                  <span className={`option-text flex-1 ${isEliminated ? 'line-through opacity-50' : ''}`}>
-                    {renderMathText(option)}
-                  </span>
+                  
+                  {isImageOption ? (
+                    // Image option
+                    <div className={`flex-1 ${isEliminated ? 'opacity-50' : ''}`}>
+                      <Image 
+                        src={option} 
+                        alt={`Option ${optionLetter}`}
+                        width={200}
+                        height={150}
+                        className="max-w-full h-auto rounded border"
+                      />
+                    </div>
+                  ) : (
+                    // Text option
+                    <span className={`option-text flex-1 ${isEliminated ? 'line-through opacity-50' : ''}`}>
+                      {renderMathText(option)}
+                    </span>
+                  )}
                 </div>
               </button>
               

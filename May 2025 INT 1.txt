@@ -1,0 +1,1157 @@
+TEST_NAME::: May 2025 INT 1
+
+QUESTION_SECTION::: Section 1, Module 1: Reading and Writing
+QUESTION_START
+QUESTION_NUMBER::: 1
+PASSAGE::: The Gleaners, painted in the realist style by Jean-François Millet, depicts peasants picking stray wheat from a field after the harvest. The realists' emphasis on accurately portraying the experiences of average working people was largely a rejection of the romantic style evident in many paintings by Paul Delaroche, which instead [BLANK] their subjects' beauty or heroism while hiding all imperfection.
+QUESTION_TEXT::: Which choice completes the text with the most logical and precise word or phrase?
+OPTIONS_START
+OPTION::: A) mock
+OPTION::: B) exaggerate
+OPTION::: C) correct
+OPTION::: D) undermine
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 2
+PASSAGE::: The minor planet 1061 Paeonia was named after the plant genus that includes peonies. But most minor planets are given only an identification number, largely due to there being over 500,000 such bodies known at present. So while the task of finding a unique name for each minor planet was [BLANK] when few had been discovered, so many minor planets have since been discovered that the task has become nearly impossible.
+QUESTION_TEXT::: Which choice completes the text with the most logical and precise word or phrase?
+OPTIONS_START
+OPTION::: A) substantial
+OPTION::: B) insurmountable
+OPTION::: C) feasible
+OPTION::: D) ambiguous
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 3
+PASSAGE::: The term "agglomeration economies" refers to the economic benefits enjoyed by firms in the same industry that [BLANK] in a region. For example, in the computer manufacturing industry in the United Kingdom, firms that locate near one another can more readily take advantage of increased potential for information sharing among firms that fosters greater technological innovation.
+QUESTION_TEXT::: Which choice completes the text with the most logical and precise word or phrase?
+OPTIONS_START
+OPTION::: A) recur
+OPTION::: B) dissipate
+OPTION::: C) concentrate
+OPTION::: D) terminate
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 4
+PASSAGE::: In the decades after Mexico won its independence from Spain, literature became a medium through which the new nation [BLANK] its autonomous identity, with authors like Manuel Payno and Justo Sierra Méndez helping to shape what would become a distinctly Mexican literary tradition.
+QUESTION_TEXT::: Which choice completes the text with the most logical and precise word or phrase?
+OPTIONS_START
+OPTION::: A) overcame
+OPTION::: B) realized
+OPTION::: C) decried
+OPTION::: D) evaded
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 5
+PASSAGE::: Researchers examining data from the New Horizons space probe, which passed Pluto in 2015, were puzzled by a 27-mile-long crater on Pluto's icy surface. Although Pluto is mostly covered in frozen methane and nitrogen, the surface near the crater seemed to show the presence of water ice and ammonia—both of which are associated with eruptions from ice volcanoes. [UNDERLINE_START]Additionally, the shape and appearance of the crater did not suggest that it was formed by impact. Based on this evidence, scientist Dale Cruikshank and his team hypothesized that the crater was likely once a massive ice volcano.[UNDERLINE_END]
+QUESTION_TEXT::: Which choice best describes the function of the underlined sentence in the text as a whole?
+OPTIONS_START
+OPTION::: A) It introduces previous findings that suggested a research method for Cruikshank and his team.
+OPTION::: B) It implies that the research team eliminated an alternative explanation for the crater based on available evidence.
+OPTION::: C) It emphasizes the importance of the New Horizons space probe to researchers.
+OPTION::: D) It identifies a misconception that the researchers had about the crater when they were first studying the data.
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 6
+PASSAGE::: 
+Text 1
+In the past, music albums were created to be played back on physical formats like records. A typical record holds only about twenty-five minutes of music on each of its shiny black sides. This forced artists and producers to think carefully about what music to include on an album and what to leave out. Today's artists don't have to worry as much about fitting their music on physical formats. For this reason, many of today's artists are making albums that are much longer than albums from decades past.
+
+Text 2
+In today's digital age, most music is created to be streamed from online services. These services remove the limitations of physical formats like records and CDs. This may be why many new albums are longer and have more songs than albums crafted for physical formats. Unfortunately, many of these longer albums suffer from a lack of focus.
+QUESTION_TEXT::: Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement about many new albums?
+OPTIONS_START
+OPTION::: A) Many new albums include more artwork than albums generally once included.
+OPTION::: B) Many new albums sell more copies than albums generally once sold.
+OPTION::: C) Many new albums are longer than albums generally once were.
+OPTION::: D) Many new albums are quieter than albums generally once were.
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 7
+PASSAGE::: It has long been thought that the original author of the US Pledge of Allegiance was Francis Bellamy, who said that he wrote the pledge one evening in August of 1892. But a historian recently discovered a newspaper article that was published several months before August 1892. The article describes students reciting the same pledge that Bellamy claims he first wrote in August. This means that Bellamy may not have created the pledge after all.
+QUESTION_TEXT::: Based on the text, what piece of knowledge about the Pledge of Allegiance has recently become uncertain?
+OPTIONS_START
+OPTION::: A) How many changes were made to the pledge in the 1900s
+OPTION::: B) Which part of the pledge students liked best in 1892
+OPTION::: C) The name of the newspaper that first published the pledge
+OPTION::: D) The identity of the person who first wrote the pledge
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 8
+PASSAGE::: Sheep and macaque monkeys can see in three dimensions (3D), which helps them perceive distance and depth. Octopuses and squid are thought to lack 3D vision. Many researchers once thought the same about cuttlefish, but Trevor Wardill and his team wanted to test whether this assumption was true. The team studied how cuttlefish wearing 3D glasses reacted to 3D images of shrimp (a favorite prey) projected on a tank wall. Cuttlefish changed their striking position to match the 3D images, suggesting that their vision is more like that of sheep and macaque monkeys than that of octopuses or squid.
+QUESTION_TEXT::: Which choice best states the main idea of the text?
+OPTIONS_START
+OPTION::: A) Cuttlefish eyes are much more complex than those of either sheep or macaque monkeys.
+OPTION::: B) Before completing their study, Wardill's team showed that sheep have 3D vision, but macaque monkeys may not.
+OPTION::: C) Wardill's team designed 3D glasses for cuttlefish.
+OPTION::: D) The findings of Wardill's team's study suggest that like sheep and macaque monkeys, cuttlefish may also have 3D vision.
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 9
+PASSAGE::: The following text is from Anthony Trollope's 1855 novel The Warden. Tom Towers is a writer for the newspaper The Jupiter.
+It is true that in far-off provinces men did not talk daily of Tom Towers but they read The Jupiter, and acknowledged that without The Jupiter life was not worth having. This kind of hidden but still conscious glory suited the nature of the man. He loved to sit silent in a corner of his club and listen to the loud chattering of politicians, and to think how they all were in his power;—how he could smite the loudest of them, were it worth his while to raise his pen for such a purpose.
+QUESTION_TEXT::: What does the text most strongly suggest about Tom Towers?
+OPTIONS_START
+OPTION::: A) He has received much praise but tends to place too much value on his own importance.
+OPTION::: B) He takes private satisfaction in his capacity to influence public opinion.
+OPTION::: C) He aims mainly to win the regard of readers who reside in other provinces.
+OPTION::: D) He flatters himself that his readers take a greater interest in him than in politicians.
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 10
+PASSAGE::: Life Among the Piutes is an 1882 autobiographical narrative by Sarah Winnemucca Hopkins, a Northern Paiute author, educator, and activist. In the work, Winnemucca directly addresses the reader to explain certain customs, writing [BLANK]
+QUESTION_TEXT::: Which quotation from Life Among the Piutes most effectively illustrates the claim?
+OPTIONS_START
+OPTION::: A) "During the time my grandfather was away in California, where he [stayed] till after the Mexican war, there was a girl-baby born in our family."
+OPTION::: B) "Now, my dear reader, there is no word so endearing as the word father, and that is why [my people] call all good people father or mother."
+OPTION::: C) "But how can I describe the scene that followed? Some of you, dear readers, can imagine."
+OPTION::: D) "We would all go in company to see if the flowers we were named for were yet in bloom, for almost all the girls are named for flowers."
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 11
+PASSAGE::: Researchers Carolina Laura Morales and Anna Traveset gathered data about flowering plants growing alongside each other in various locations. In each case, the researchers identified one plant as a "target species" and a nearby plant as a "neighboring species." The researchers then calculated a value to show how the neighboring species affected pollinator visits to the target species. The table shows that the Himalayan balsam had an effect value of [BLANK].
+QUESTION_TEXT::: Which choice most effectively uses data from the table to complete the example?
+OPTIONS_START
+OPTION::: A) 0.7905.
+OPTION::: B) -0.3238.
+OPTION::: C) -3.2570.
+OPTION::: D) 0.4729.
+CORRECT_ANSWER::: A
+NOTE::: Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 12
+PASSAGE::: The nearly forty tribes located in Oklahoma, including the Chickasaw Nation and the Seminole Nation, operate numerous businesses and generate billions of dollars in revenue. A student in an economics class is researching the tribes' collective activity as a single industry. The student wants to compare that industry's contribution to Oklahoma's overall economy in 2017 with the contributions made by three other industries in the state. Looking at the table, the student finds that tribal economic activity totaled over $7.3 billion, ranking it above [BLANK].
+QUESTION_TEXT::: Which choice most effectively uses data from the table to complete the comparison?
+OPTIONS_START
+OPTION::: A) both accommodation/food services and retail but below health care.
+OPTION::: B) accommodation/food services but below both health care and retail.
+OPTION::: C) health care, retail, and accommodation/food services.
+OPTION::: D) accommodation/food services and nearly equal to health care and retail.
+CORRECT_ANSWER::: A
+NOTE::: Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 13
+PASSAGE::: Assessing the role of forests as sinks for airborne microplastics that would otherwise continue to disperse in the atmosphere, Akane Miyazaki and her team measured concentrations of plastic particulates on leaves from konara oak trees in Japan. The team used three separate extraction methods: an ultrapure water rinse, a rinse combined with ultrasonic waves, and an alkaline solution treatment that removes epicuticular wax (a surface coating on most land plants to which particles can adhere). The concentrations of particulates recovered were 7.6 percent for water extraction, 38.4 percent for ultrasonic extraction, and 53.8 percent for alkaline extraction, leading the team to conclude that previous assessments have likely underestimated forest canopies' capacity as sinks.
+QUESTION_TEXT::: Which detail, if true, would most directly support the team's conclusion?
+OPTIONS_START
+OPTION::: A) Most studies of microplastic accumulation on leaves have utilized extraction methods that do not have a substantial effect on epicuticular wax.
+OPTION::: B) Most studies of microplastic accumulation on leaves have focused on forests with diverse tree species that exhibit varying levels of epicuticular wax.
+OPTION::: C) Most studies of microplastic accumulation on leaves have found particulate concentrations that greatly exceeded 53.8 percent.
+OPTION::: D) Most studies of microplastic accumulation on leaves have involved the application of alkaline treatments before water and ultrasonic treatments rather than after them.
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 14
+PASSAGE::: Mariana Lopes Barata and Pedro Simões Coelho collected data from 324 music-streaming service users to identify factors that influence users to opt for paid (premium) versions of music streaming services, like Apple Music. They hypothesized that hedonic motivation (the enjoyment that a consumer perceives to be associated with using a service) would be positively correlated with users' intentions to adopt premium versions. The researchers asked participants to rate statements such as "Using paid music streaming services is pleasant." They found that, indeed, hedonic motivation positively influences the intention to adopt premium streaming service versions, which suggests that [BLANK].
+QUESTION_TEXT::: Which choice most logically completes the text?
+OPTIONS_START
+OPTION::: A) it may be advantageous for music streaming companies to try to influence the extent to which potential users perceive the premium version as pleasant to use.
+OPTION::: B) participants who strongly agreed with the statement "Using paid music streaming services is pleasant" were more likely to express loyalty to Apple Music than to other streaming services.
+OPTION::: C) the statement "Using paid music streaming services is pleasant" is not a reliable measure of hedonic motivation.
+OPTION::: D) users' intentions to pay for premium streaming services are probably unaffected by factors other than hedonic motivation.
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 15
+PASSAGE::: On August 15, 2013, the Navajo Times [BLANK] a profile of Manuelito Chapter (Kʼii Hółʼáii), which is one of the 110 chapters of the Navajo Nation (Naabeehó Bináhásdzo). The article was later included in a book series called Exploring the Navajo Nation Chapter by Chapter.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) will publish
+OPTION::: B) published
+OPTION::: C) publishes
+OPTION::: D) is publishing
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 16
+PASSAGE::: According to the original text of the US Constitution, written in 1787, the presidential candidate receiving the second-most Electoral College votes becomes vice president. The 12th amendment, ratified in [BLANK] separated the elections for the two offices.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) 1804,
+OPTION::: B) 1804—
+OPTION::: C) 1804
+OPTION::: D) 1804;
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 17
+PASSAGE::: The colors of Navajo (Diné) weaver Melissa Cody's work World Traveler (2014) recall both the Germantown revival, a weaving style developed by Navajo [BLANK] ago, and the color palette of the video games that Cody played as a child.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) artist's over 180 years
+OPTION::: B) artists over 180 years'
+OPTION::: C) artists' over 180 years
+OPTION::: D) artists over 180 years
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 18
+PASSAGE::: The editors of Home Ground: A Guide to the American Landscape turned to Luis Alberto Urrea, a poet, to craft the entry for "arroyo," a term referring to a watering hole formed by a natural or artificial dam. For "mussed," however, the editors chose the [BLANK] author of Of Landscape and Longing.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) essayist Carolyn Servid
+OPTION::: B) essayist, Carolyn Servid
+OPTION::: C) essayist Carolyn Servid,
+OPTION::: D) essayist, Carolyn Servid,
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 19
+PASSAGE::: A groundbreaking visual artist of her day, [BLANK] including artists Vasily Kandinsky and Piet Mondrian.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) Hilma af Klint, well before many of her contemporaries, explored abstract modes of painting,
+OPTION::: B) Hilma af Klint explored abstract modes of painting well before many of her contemporaries,
+OPTION::: C) well before many of her contemporaries, Hilma af Klint explored abstract modes of painting,
+OPTION::: D) the explorations of Hilma af Klint into abstract modes of painting occurred well before those of many of her contemporaries.
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 20
+PASSAGE::: The small celestial body known as 2010 BL4 is expected to have a relatively short lifetime in the outer solar system. Within just a few million years, 2010 BL4 is likely to migrate into the inner solar system or be destroyed, according to [BLANK] trajectory.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) astronomers modeling of the objects
+OPTION::: B) astronomer's modeling of the object's
+OPTION::: C) astronomers' modeling of the object's
+OPTION::: D) astronomers modeling of the objects'
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 21
+PASSAGE::: Many works of the Roman scholar Varro (1st century BCE), including his history of Rome, De gente populi Romani, have been lost to time. Scholars wishing to read a work written by the Roman scholar needn't [BLANK] they can still procure a copy of Varro's Rerum rusticarum libri tres, a treatise on agriculture.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) despair, though
+OPTION::: B) despair, though,
+OPTION::: C) despair;
+OPTION::: D) despair—though
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 22
+PASSAGE::: Using LIDAR (Light Detection and Ranging) technology, Tulane University archaeologists scanned and mapped the ancient Mayan city of Tikal, which lies deep in the Guatemalan rainforest. Some of Tikal's old stones are intertwined with the roots of surrounding trees, rendering parts of the complex physically inaccessible to researchers. [BLANK] the LIDAR's penetrating light waves were the only way to reveal some previously unknown aspects of the Mayan city.
+QUESTION_TEXT::: Which choice completes the text with the most logical transition?
+OPTIONS_START
+OPTION::: A) Similarly,
+OPTION::: B) Afterward,
+OPTION::: C) Hence,
+OPTION::: D) Specifically,
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 23
+PASSAGE::: Imagine a magazine that a reader has thrown away. This magazine is post-consumer waste, as it became waste after reaching the consumer. [BLANK] the paper scraps left over from printing the magazine are pre-consumer waste, as they became waste before reaching the consumer.
+QUESTION_TEXT::: Which choice completes the text with the most logical transition?
+OPTIONS_START
+OPTION::: A) For example,
+OPTION::: B) Specifically,
+OPTION::: C) By contrast,
+OPTION::: D) As a result,
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 24
+PASSAGE::: One proposed boundary between Earth's atmosphere and outer space is the Kármán line, 100 km above sea level. Based on the work of physicist Theodore von Kármán, this line marks the theoretical height at which an aircraft no longer remains aloft using the force of lift. [BLANK] an aircraft sustains flight past this altitude primarily by its velocity, reaching a speed sufficient to maintain an orbit but not to generate enough lift from the thin air.
+QUESTION_TEXT::: Which choice completes the text with the most logical transition?
+OPTIONS_START
+OPTION::: A) Regardless,
+OPTION::: B) For instance,
+OPTION::: C) Granted,
+OPTION::: D) Instead,
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 25
+PASSAGE::: 
+* The Schomburg Center for Research in Black Culture is a research library in New York City.
+* It was named for Arturo Alfonso Schomburg.
+* It was founded in 1925.
+QUESTION_TEXT::: The student wants to indicate the year the Schomburg Center was founded. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+OPTIONS_START
+OPTION::: A) The Schomburg Center was named for Arturo Alfonso Schomburg.
+OPTION::: B) The Schomburg Center is a research library.
+OPTION::: C) The Schomburg Center was founded in 1925.
+OPTION::: D) The Schomburg Center is located in New York City.
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 26
+PASSAGE::: 
+* Brussels sprouts are vegetables that contain ascorbic acid, an essential nutrient for humans.
+* Apples are fruits that contain ascorbic acid.
+* There is 80 milligrams (mg) of ascorbic acid in every 100 grams (g) of brussels sprouts.
+* There is 6 mg of ascorbic acid in every 100 g of apple.
+* Humans cannot make ascorbic acid in their bodies, so they must get it from foods, including fruits and vegetables.
+* Ascorbic acid is also known as vitamin C.
+QUESTION_TEXT::: The student wants to compare the vitamin C content of brussels sprouts and apples. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+OPTIONS_START
+OPTION::: A) Brussels sprouts contain vitamin C (also known as ascorbic acid)—80 mg in every 100 g, to be exact.
+OPTION::: B) Brussels sprouts and apples both contain vitamin C, but brussels sprouts contain more.
+OPTION::: C) Brussels sprouts are vegetables, and apples are fruits.
+OPTION::: D) Humans cannot make ascorbic acid in their bodies, but they can get it from brussels sprouts.
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 27
+PASSAGE::: 
+* Merle Oberon (1911-1979) was an actress born in Mumbai (then known as Bombay), India.
+* She was of Indian, Maori, and Irish heritage.
+* She was the first Indian-born actress to be nominated for an Academy Award.
+* Early in her career, she played many nameless, uncredited roles, such as her role in The Three Passions (1928).
+* Later, she played many named, credited roles, such as Empress Josephine in Désirée (1954).
+QUESTION_TEXT::: The student wants to emphasize a similarity between the two films. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+OPTIONS_START
+OPTION::: A) The Three Passions and Désirée are both films that include Merle Oberon, the first Indian-born actress to be nominated for an Academy Award.
+OPTION::: B) The Three Passions (1928) was released early in actress Merle Oberon's career, whereas Désirée (1954) came out later.
+OPTION::: C) In The Three Passions (1928), actress Merle Oberon played a nameless, uncredited role; however, in Désirée (1954), she played a credited role—that of Empress Josephine.
+OPTION::: D) Early in her career, Merle Oberon wasn't listed in some film credits, such as the credits for the film The Three Passions, where she played a nameless, uncredited role.
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_SECTION::: Section 1, Module 2: Reading and Writing
+QUESTION_START
+QUESTION_NUMBER::: 1
+PASSAGE::: The Apalachicola River delta in Florida is where the river flows into the Gulf of Mexico. As the river reaches the gulf, it forms smaller channels where sediments carried by the river are deposited and form marshy deltaic lobes, or wetland formations. The shape and size of the delta are [BLANK] by the gulf's tides, which shift sediments along the coast and reshape the deltaic lobes over time.
+QUESTION_TEXT::: Which choice completes the text with the most logical and precise word or phrase?
+OPTIONS_START
+OPTION::: A) surpassed
+OPTION::: B) enhanced
+OPTION::: C) influenced
+OPTION::: D) protected
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 2
+PASSAGE::: Lisa Linn Kanae is a celebrated contemporary Hawaiian author whose work is [BLANK] by a rich literary history. From the traditional stories of the Kūmuʻulipo (a Hawaiian creation chant) or Native Hawaiian people, to the works of writers such as David Malo, the literary lineage of Hawaiʻi is distinctive and vibrant.
+QUESTION_TEXT::: Which choice completes the text with the most logical and precise word or phrase?
+OPTIONS_START
+OPTION::: A) preceded
+OPTION::: B) summarized
+OPTION::: C) supplanted
+OPTION::: D) overlooked
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 3
+PASSAGE::: Archaeologists have identified a plethora of beads fashioned from Tritia gibbosula shells in many Middle Stone Age (MSA) sites across western North Africa, including El Mnasra Cave, Morocco. In a 2021 paper, El Mehdi Sehasseh et al. attribute these artifacts' [BLANK] to the evolution and propagation of symbolic behavior (e.g., use of personal ornaments) in humans and the availability of T. gibbosula during the MSA.
+QUESTION_TEXT::: Which choice completes the text with the most logical and precise word or phrase?
+OPTIONS_START
+OPTION::: A) expediency
+OPTION::: B) fecundity
+OPTION::: C) ubiquity
+OPTION::: D) heterogeneity
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 4
+PASSAGE::: Svante Pääbo and other researchers studying the history of organisms have long utilized ancient DNA—DNA recovered from ancient organic material that has been preserved under natural conditions. However, Beyene B. Oliveira and colleagues' 2017 study of the evolutionary trajectory of the Malagasy grass genus Chascolytrum instead relied on historical DNA—genomic data incidentally preserved in specimens that are housed in natural history collections—[UNDERLINE_START]thus capitalizing on the research potential offered by a vast but hitherto relatively underutilized source of insight into the biological past.[UNDERLINE_END]
+QUESTION_TEXT::: Which choice best describes the function of the underlined portion in the text as a whole?
+OPTIONS_START
+OPTION::: A) It specifies potential applications of the approach that Oliveira and colleagues used in their study.
+OPTION::: B) It offers commentary on the significance of the approach that Oliveira and colleagues used for their study.
+OPTION::: C) It emphasizes the importance of Oliveira and colleagues' findings about the DNA of flora.
+OPTION::: D) It explains why the research methodology selected by Oliveira and colleagues is not widely used.
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 5
+PASSAGE::: Established knowledge of prehistoric societies primarily stems from analysis of durable historical artifacts, including stone tools. But Mercedes Murillo-Barroso and colleagues have contributed new insights with a unique analysis of plant-based items. Plant-based artifacts, including straw baskets, are seldom studied due to their perishable nature. [UNDERLINE_START]This relative scarcity[UNDERLINE_END] made it all the more exciting when the team examined remains of well preserved organic artifacts discovered in a cave in Spain and determined that they dated even further back than previously thought.
+QUESTION_TEXT::: Which choice best describes the function of the underlined portion in the text as a whole?
+OPTIONS_START
+OPTION::: A) It suggests that the researchers did not fully achieve a goal outlined earlier in the text.
+OPTION::: B) It describes the uncertain nature of a discovery by the researchers mentioned earlier in the text.
+OPTION::: C) It distinguishes between the two types of historical artifacts discussed earlier in the text.
+OPTION::: D) It refers to a challenging situation presented earlier in the text.
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 6
+PASSAGE::: In 2021, Nobel Prize-winning physicist Giorgio Parisi published In a Flight of Starlings, a collection of essays on scientific subjects. Acclaimed author Sam Kean, who lauds the form of nonfiction narrative to explore scientific discoveries, is interested in the collection less for its aesthetic merit than for its focus on "the false starts...and mistakes that beset real scientific research every day." Kean argues that all too often, scientists omit this "human stuff" from written accounts of their research and thus ultimately "fail to explain how science really gets done."
+QUESTION_TEXT::: Which choice best states the main purpose of the text?
+OPTIONS_START
+OPTION::: A) It explores a subtle difference between Kean's and Parisi's respective objections to scientific research methods.
+OPTION::: B) It outlines an area of agreement between Parisi and Kean in how they think about the work of science.
+OPTION::: C) It describes Kean's view that nonfiction narrative is an effective way for Parisi to share his accomplishments.
+OPTION::: D) It presents Kean's claim that Parisi is too modest about his own achievements as a scientist.
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 7
+PASSAGE::: The following text is from William Shakespeare's circa 1611 play The Winter's Tale. Camillo has been away from his home in Sicily and serves in the court of Polixenes, the king of Bohemia. He has asked Polixenes for permission to return to Sicily.
+POLIXENES: I pray thee, good Camillo, be no more importunate. 'Tis a sickness denying thee anything; a death to grant this.
+CAMILLO: It is fifteen years since I saw my country. Though I have for the most part been aired abroad, I desire to lay my bones there. Besides, the penitent king my master hath sent for me, to whose feeling sorrows I might be some allay—or I o'erween [presume] to think so—which is another spur to my departure.
+QUESTION_TEXT::: Which choice describes the function of the underlined portion in the text as a whole?
+OPTIONS_START
+OPTION::: A) It bolsters the idea that Camillo's primary motivation to return home is his concern for the king of Sicily's well-being in his absence.
+OPTION::: B) It suggests that Camillo feels compelled to persuade Polixenes that Camillo's decision to leave the court is justified.
+OPTION::: C) It establishes Camillo's hope that Polixenes will be comforted knowing that Camillo isn't departing at his own discretion.
+OPTION::: D) It conveys Camillo's recognition that one benefit his presence may afford the king of Sicily is merely speculative.
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 8
+PASSAGE::: The following text is from Narciso Tondreau's 1898 poem "Yesterday and To-Day" (translated by Agnes Blake Poor in 1918). The poem is about an old statue of the Greek goddess Venus, which now lies on the ground in a state of disrepair.
+How long ago, by summer breezes fanned,
+Here stood the newborn Venus, fresh and fair,
+All palpitating from the master's hand,
+The last touch of his chisel lingering there.
+
+"And surely this shall last," he proudly thought,
+"Fixed in immortal marble is my fame!"
+Just here, where human hand has quaintly wrought,
+Some crumbling letters may have spelled his name.
+QUESTION_TEXT::: In the text, what does the speaker say that the artist believed about his sculpture?
+OPTIONS_START
+OPTION::: A) It would be praised for its intricate details that he carefully chiseled.
+OPTION::: B) It would be carefully repaired when it inevitably begins to deteriorate.
+OPTION::: C) It would bring him enduring fame by withstanding time.
+OPTION::: D) Its beauty would be recognized as surpassing that of other images of Venus.
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 9
+PASSAGE::: Esther Samp-Mengual, Kathrin Specht, and their team surveyed three groups of people in Bologna, Italy—leaders of urban agriculture projects, stakeholders in urban agriculture (e.g., food researchers and urban farming associations), and the general public—to compare their views about the extent to which urban agriculture contributes to 25 social or ecological services that the team identified. The researchers used these ratings to rank the services for each group, with a ranking of 1 indicating that a group perceives that urban agriculture benefits that service the most. Using only the rankings shown in the table, a city planner in Bologna who is promoting a new urban agriculture project concludes that advertisements aimed at stakeholders should emphasize the project's benefit to the enhancement of pollination.
+QUESTION_TEXT::: Which choice best describes data in the table that support the city planner's conclusion?
+OPTIONS_START
+OPTION::: A) The enhancement of pollination was ranked higher for stakeholders than were the other four services.
+OPTION::: B) The prevention of soil erosion was ranked lower for stakeholders than it was for project leaders.
+OPTION::: C) The enhancement of pollination was ranked higher for the general public than it was for stakeholders.
+OPTION::: D) The enhancement of carbon sequestration was ranked higher for stakeholders than was the enhancement of pollination.
+CORRECT_ANSWER::: A
+NOTE::: Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 10
+PASSAGE::: In an international collaboration, Elaine Ostrander, an expert on dog genetics, and other researchers probed the evolutionary history of size variation in modern dogs. Scientific consensus held that early dogs had large body mass and that a genetic driver of smaller size in some breeds (e.g., bulldogs) developed only within the last 20,000 years as a result of selective breeding for characteristics favored by humans. Ostrander et al. assert that this explanation is flawed, having discovered that a mutation responsible for variants of IGF1, a gene found in many mammals that regulates production of insulin-like growth factor 1, is ubiquitous in domestic dog breeds.
+QUESTION_TEXT::: Which finding, if true, would most directly support the researchers' assertion?
+OPTIONS_START
+OPTION::: A) IGF1 has been isolated in genetic material from fossils more than 20,000 years old of the red wolf (Canis rufus) and certain other species related to dogs.
+OPTION::: B) An additional mutation related to IGF1 affects the development of characteristics other than body size in smaller dog breeds like bulldogs.
+OPTION::: C) The mutation related to IGF1 influences body size and is found in 53,000-year-old genetic material from fossils of Siberian wolves (Canis lupus campestris), an ancestor of dogs.
+OPTION::: D) One variant of IGF1 is found only in smaller dog breeds like bulldogs and appears to have emerged no more than 20,000 years ago.
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 11
+PASSAGE::: Callie W. Babbitt, Hema Malaki, and colleagues assembled a database of materials used in consumer electronics by studying products in the lab and by gathering data from similar product studies. The team gave each of these studies a rating for level of detail (with a higher rating for reported data with more detail) and for level of traceability (with a higher rating for clearer descriptions of procedures). Based on these ratings, a second research team concluded that a study by Greg L. Kozak and Georgy A. Kealean provided more specificity in its data than a study by Oguchi Masahiro and colleagues did.
+QUESTION_TEXT::: Which finding, if true, would most directly challenge the second research team's conclusion?
+OPTIONS_START
+OPTION::: A) The study by Kozak and Kealean had a lower detail rating than the study by Oguchi and colleagues did.
+OPTION::: B) The study by Kozak and Kealean had a lower traceability rating than the study by Oguchi and colleagues did.
+OPTION::: C) The study by Kozak and Kealean had a high detail rating and a high traceability rating.
+OPTION::: D) The study by Oguchi and colleagues had a low detail rating and a low traceability rating.
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 12
+PASSAGE::: Soil thawing in Alaska has been accelerating as a result of climate changes, potentially enabling increased carbon dioxide (CO2) absorption through greater productivity of arctic-bramble (Rubus arcticus) plants and other vegetation, but also potentially enabling increased CO2 output through greater heterotrophic respiration (CO2 generated by the activity of soil microorganisms). Hydrologist Yonghong Yi and her colleagues developed a model incorporating numerous inputs—years of soil temperature and snow cover data among them—to evaluate the effects of climate changes on the CO2 balance in Alaska, concluding that net CO2 is likely to increase if seasonal snow cover arrives earlier relative to the onset of soil surface freezing.
+QUESTION_TEXT::: Which finding, if true, would most directly support the researchers' conclusion?
+OPTIONS_START
+OPTION::: A) The effect of soil temperature on the growth of vegetation and on the rate of heterotrophic respiration is stronger during the period of seasonal snow cover than during the period without snow cover.
+OPTION::: B) Relatively early snow cover reduces the amount of soil moisture available for the growth of plant species such as R. arcticus and lowers the rate of heterotrophic respiration.
+OPTION::: C) Seasonal snow cover tends to persist longer in areas of relatively low vegetation growth and high heterotrophic respiration than in areas of relatively high vegetation growth and low heterotrophic respiration.
+OPTION::: D) The soil insulation provided by snow cover enables heterotrophic respiration to continue during a period in which plants such as R. arcticus are typically not growing.
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 13
+PASSAGE::: Over 800 languages are spoken in New York City in addition to English—one can find Bambara spoken in the neighborhood of Kingsbridge, or Cha'le in Jackson Heights. Most speakers of Chinese languages reside in the neighborhood of Flushing (part of New York City's borough of Queens), where the dominant Chinese language is Mandarin, and in Chinatown, in the borough of Manhattan, where the dominant Chinese languages are Cantonese and Fuzhounese. Mandarin is widely spoken in north China, while Cantonese and Fuzhounese are widely spoken in south China. It can therefore be inferred that [BLANK].
+QUESTION_TEXT::: Which choice most logically completes the text?
+OPTIONS_START
+OPTION::: A) Chinese immigrants who emigrated to New York City many years ago are more likely to speak several Chinese languages than are more recent Chinese immigrants.
+OPTION::: B) people who emigrate from north China tend to settle in Queens, while people who emigrate from south China tend to settle in Manhattan.
+OPTION::: C) taken together, there are more Cantonese and Fuzhounese speakers among Chinese immigrants in New York City than there are Mandarin speakers.
+OPTION::: D) Chinese immigrants regularly change their residences between Queens and Manhattan after they emigrate, rather than staying in one borough.
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 14
+PASSAGE::: David Mitchell's 2006 novel Black Swan Green contains elements drawn from Mitchell's own life—there are many parallels between the experiences of the novel's protagonist, Jason Taylor, and those of Mitchell—and as a result Black Swan Green is regularly described as an autobiographical novel. This characterization can be useful, but it also presents drawbacks in terms of how the work is perceived, given the high value placed on creativity and imagination in artistic endeavors. Readers who take this characterization to mean that Mitchell merely fictionalized actual events may conclude that [BLANK].
+QUESTION_TEXT::: Which choice most logically completes the text?
+OPTIONS_START
+OPTION::: A) Black Swan Green is not as worthy of praise as it might have been if it had no basis in fact.
+OPTION::: B) critics disagree about whether Black Swan Green shows greater originality than works without autobiographical elements.
+OPTION::: C) the real-world counterparts of other characters in Black Swan Green are hard to identify.
+OPTION::: D) Mitchell should not have claimed that Black Swan Green is based on real events.
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 15
+PASSAGE::: Since the nineteenth century, Egyptologists have commonly divided ancient Egyptian history into three primary [BLANK] Old Kingdom (2700–2200 BCE), the Middle Kingdom (2050–1800 BCE), and the New Kingdom (1550–1100 BCE). Some historians, however, criticize the names of these periods for revealing more about the culture of the mainly European Egyptologists than that of ancient Egypt itself.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) periods: The
+OPTION::: B) periods: the
+OPTION::: C) periods; the
+OPTION::: D) periods, the
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 16
+PASSAGE::: If you had turned on the radio in the fall of 1964, chances are you would have heard the hit [BLANK] "Little Marie" by Chuck Berry. The song spent nine straight weeks on the Billboard Hot 100 chart that year.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) song
+OPTION::: B) song,
+OPTION::: C) song:
+OPTION::: D) song;
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 17
+PASSAGE::: The allocation of a new country dialing prefix (+380) to route incoming international calls [BLANK] among the infrastructural changes necessitated by Ukraine's 1991 split from the Soviet Union.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) are
+OPTION::: B) was
+OPTION::: C) have been
+OPTION::: D) were
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 18
+PASSAGE::: The lyrid meteor shower's brightness typically surpasses that of the Puppid-Velid meteor shower due to the interplay of three main factors—namely, the size and composition of the [BLANK] velocity upon entering Earth's mesosphere, with higher-velocity meteoroids releasing more energy and atmospheric fluctuations, such as changes in humidity.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) meteoroids—their
+OPTION::: B) meteoroids, their
+OPTION::: C) meteoroids; their
+OPTION::: D) meteoroids. Their
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 19
+PASSAGE::: In Hafez's Divan, the writer muses on love, faith, and protest. So impactful is this particular work by Hafez, a Persian lyric poet whose authorial perspective was at once mystical and critical, that its ruminations on fourteenth-century Persian life [BLANK] Iranian society hundreds of years later.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) influence
+OPTION::: B) influences
+OPTION::: C) is influencing
+OPTION::: D) has influenced
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 20
+PASSAGE::: In 2018, the Contessa Gallery in Miami, Florida, exhibited the work of Slovak [BLANK] who aptly describes her photos as "minimalistic but also futuristic."
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) photographer Mária Švarbová,
+OPTION::: B) photographer, Mária Švarbová
+OPTION::: C) photographer Mária Švarbová
+OPTION::: D) photographer, Mária Švarbová,
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 21
+PASSAGE::: Instead of sleeping on soft pillows, ancient Egyptians slept on hard, elevated headrests, their design [BLANK] airflow, protection from insects, and hairstyle maintenance over comfort.
+QUESTION_TEXT::: Which choice completes the text so that it conforms to the conventions of Standard English?
+OPTIONS_START
+OPTION::: A) was prioritizing
+OPTION::: B) had prioritized
+OPTION::: C) prioritizing
+OPTION::: D) prioritized
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 22
+PASSAGE::: French mathematician Michel Talagrand has shown that over large numbers of trials, variables that appear to be independent and random are in fact extremely likely to cluster around an average. [BLANK] according to Talagrand's research, if you flip a coin 1,000 times, there is a 99.7% probability that the coin will land heads side up between 450 and 550 times.
+QUESTION_TEXT::: Which choice completes the text with the most logical transition?
+OPTIONS_START
+OPTION::: A) In addition,
+OPTION::: B) However,
+OPTION::: C) For instance,
+OPTION::: D) In comparison,
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 23
+PASSAGE::: Topographic maps show the elevation of landforms above sea level. Bathymetric maps, [BLANK] show the elevation of landforms below the sea, providing valuable information to marine geophysicists like Claudia Flores, who studies seismic data from the northeastern Caribbean.
+QUESTION_TEXT::: Which choice completes the text with the most logical transition?
+OPTIONS_START
+OPTION::: A) afterward,
+OPTION::: B) in conclusion,
+OPTION::: C) for example,
+OPTION::: D) by contrast,
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 24
+PASSAGE::: Edge modeling is one process digital artists employ while developing visuals for video games. [BLANK] digital artists use edge modeling to piece together separate shapes to create 3D objects for games.
+QUESTION_TEXT::: Which choice completes the text with the most logical transition?
+OPTIONS_START
+OPTION::: A) In addition,
+OPTION::: B) Specifically,
+OPTION::: C) Thus,
+OPTION::: D) By comparison,
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 25
+PASSAGE::: In the Southeast Asian country of Indonesia, the percentage of the population living in cities rose from 53.3% to 56.6% between 2015 and 2020. [BLANK] urbanization rates climbed across Southeast Asia as a whole, rising 2.8 percentage points in that five-year period.
+QUESTION_TEXT::: Which choice completes the text with the most logical transition?
+OPTIONS_START
+OPTION::: A) For example,
+OPTION::: B) Eventually,
+OPTION::: C) In other words,
+OPTION::: D) Concurrently,
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 26
+PASSAGE:::
+* Linguistic typologists classify and compare languages according to their structural features.
+* One such structure is word order, or the way subjects (S), verbs (V), and objects (O) are typically arranged in a sentence.
+* English employs an SVO word order (e.g., Cows eat grass).
+* Bengali employs an SOV word order (e.g., Cows grass eat).
+* Filipino employs a VSO word order (e.g., Eat cows grass).
+* 87% of the world's languages are classified as either SVO or SOV.
+QUESTION_TEXT::: The student wants to make a generalization about how word order is employed across languages. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+OPTIONS_START
+OPTION::: A) Word order is one of the structural features by which linguistic typologists classify and compare the world's languages.
+OPTION::: B) Linguistic typologists analyze and compare how word order is employed across languages.
+OPTION::: C) The way in which subjects, verbs, and objects are typically arranged in a sentence is also called word order.
+OPTION::: D) The majority of languages place the subject of a sentence before the verb and object.
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 27
+PASSAGE:::
+* Producing the nutrient-rich cyanobacterium L. maxima at industrial scale requires high-quality samples of L. maxima DNA.
+* Yirlis Yisdeth Pineda-Rodríguez and a team of researchers at the University of Córdoba, Colombia, evaluated the quantity and purity of L. maxima DNA extracted using three different DNA extraction kits.
+* CTAB 2X (kit 1) had a DNA yield of 2,134 nanograms per microliter (ng/μL) and a purity ratio of 2.2.
+* Pfast (kit 2) had a DNA yield of 157 ng/μL and a purity ratio of 1.6.
+* Pplant (kit 3) had a DNA yield of 12.5 ng/μL and a purity ratio of 1.5.
+* According to the researchers, Pfast was the most effective because it was the only one with both a sufficiently high yield and a purity ratio close to the ideal of 1.8.
+QUESTION_TEXT::: The student wants to emphasize the significance of a similarity between two of the kits. Which choice most effectively uses relevant information from the notes to accomplish this goal?
+OPTIONS_START
+OPTION::: A) CTAB 2X and Pplant both had a DNA yield above 10 and a purity ratio above 1.4.
+OPTION::: B) Due to their insufficient yield or purity, CTAB 2X and Pplant were deemed by the researchers to be less effective than Pfast.
+OPTION::: C) With the ideal purity ratio being 1.8, CTAB 2X and Pfast were equal in purity, according to the researchers.
+OPTION::: D) Compared to CTAB 2X, which had a DNA yield of 2,134 ng/μL, both Pfast and Pplant had insufficient yields; Pplant, in particular, was ineffective due to its low yield.
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_SECTION::: Section 2, Module 1: Math
+QUESTION_START
+QUESTION_NUMBER::: 1
+QUESTION_TEXT::: A certain hybrid car uses 39 gallons of gasoline to travel 1,950 miles. At this rate, how many kilometers does the car travel using 39 gallons of gasoline? (Use 1 mile = 1.6 kilometers.)
+OPTIONS_START
+OPTION::: A) 312
+OPTION::: B) 3,120
+OPTION::: C) 31,200
+OPTION::: D) 312,000
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 2
+QUESTION_TEXT::: The function h is defined by h(x) = 4x - 9. What is the value of h(-3)?
+OPTIONS_START
+OPTION::: A) 21
+OPTION::: B) 13
+OPTION::: C) -13
+OPTION::: D) -21
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 3
+QUESTION_TEXT::: 10x = 110
+8x - 86 = y
+The solution to the given system of equations is (x, y). What is the value of y?
+OPTIONS_START
+OPTION::: A) 86
+OPTION::: B) 11
+OPTION::: C) 10
+OPTION::: D) 2
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 4
+QUESTION_TEXT::: Which expression is equivalent to $7x^3 - 6x^3 + 9x^3$?
+OPTIONS_START
+OPTION::: A) $x^3(7x - 6)$
+OPTION::: B) $x^3(7x^2 - 6x + 9)$
+OPTION::: C) $9x^3(7x^2 - 6x + 1)$
+OPTION::: D) $10x^3(-6x^2 + 9x - 1)$
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 5
+QUESTION_TEXT::: y = 0
+y = 8($x^2$ - 36)
+Which ordered pair (x, y) is a solution to the given system of equations?
+OPTIONS_START
+OPTION::: A) (0, 6)
+OPTION::: B) (0, 36)
+OPTION::: C) (6, 0)
+OPTION::: D) (36, 0)
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 6
+QUESTION_TEXT::: A group of students purchase ice cream cones and ice cream sundaes. The cones cost $1.40 each, and the cost for 19 sundaes is $64.60. The total cost for the cones and sundaes is $85.60. Which equation represents this situation, where x is the number of cones purchased and y is the number of sundaes purchased?
+OPTIONS_START
+OPTION::: A) 1.40x + 64.60y = 85.60
+OPTION::: B) 64.60x + 1.40y = 85.60
+OPTION::: C) 3.40x + 1.40y = 85.60
+OPTION::: D) 1.40x + 3.40y = 85.60
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 7
+QUESTION_TEXT::: Hakim has a bag of 50 tiles, where 45 are labeled with a letter and 5 are blank. Hakim selects a tile from the bag at random, what is the probability of selecting a blank tile? (Express your answer as a decimal or fraction, not as a percent.)
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 8
+QUESTION_TEXT::: In $\triangle DEF$, the measure of $\angle D$ is $114^\circ$. Which of the following could be the measure, in degrees, of $\angle E$?
+OPTIONS_START
+OPTION::: A) 115
+OPTION::: B) 90
+OPTION::: C) 67
+OPTION::: D) 65
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 9
+QUESTION_TEXT::: The shaded region shown represents the solutions to which inequality?
+OPTIONS_START
+OPTION::: A) y > 3x + 7
+OPTION::: B) y > 3x - 7
+OPTION::: C) y < 3x + 7
+OPTION::: D) y < 3x - 7
+CORRECT_ANSWER::: A
+NOTE::: Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 10
+QUESTION_TEXT::: Which expression is equivalent to $20x^2 + 3 + 5x^2$?
+OPTIONS_START
+OPTION::: A) $25x^2 + 3$
+OPTION::: B) $28x^2$
+OPTION::: C) $28x^4$
+OPTION::: D) $28x^2$
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 11
+QUESTION_TEXT::: A company opens an account with an initial balance of $35,600.00. The account earns interest, and no additional deposits or withdrawals are made. The account balance is given by an exponential function A, where A(t) is the account balance, in dollars, t years after the account is opened. The account balance after 15 years is $129,672.38. Which equation could define A?
+OPTIONS_START
+OPTION::: A) $A(t) = 35,600.00(1.09)^t$
+OPTION::: B) $A(t) = 35,600.00(0.09)^t$
+OPTION::: C) $A(t) = 94,072.38(1.09)^t$
+OPTION::: D) $A(t) = 94,072.38(0.09)^t$
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 12
+QUESTION_TEXT::: What is the y-intercept of the graph of $y = 14^x$ in the xy-plane?
+OPTIONS_START
+OPTION::: A) (0, 15)
+OPTION::: B) (0, 14)
+OPTION::: C) (0, 1)
+OPTION::: D) (0, -1)
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 13
+QUESTION_TEXT::: The function $f$ is defined by $f(x) = 2x + b$, where b is a constant and $f(7) = 0$. What is the value of b?
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 14
+QUESTION_TEXT::: A number f is 120% greater than a positive number g. A number h is 90% less than the number f. The number h is how many times the number g?
+OPTIONS_START
+OPTION::: A) 0.12
+OPTION::: B) 0.22
+OPTION::: C) 1.08
+OPTION::: D) 1.98
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 15
+QUESTION_TEXT::: The histograms summarize the distributions of scores for team A and team B. Which statement best compares the standard deviation of scores for these teams?
+OPTIONS_START
+OPTION::: A) The standard deviation of scores for team A is less than the standard deviation of scores for team B.
+OPTION::: B) The standard deviation of scores for team A is greater than the standard deviation of scores for team B.
+OPTION::: C) The standard deviation of scores for team A is equal to the standard deviation of scores for team B.
+OPTION::: D) There is not enough information to compare the standard deviations.
+CORRECT_ANSWER::: B
+NOTE::: Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 16
+QUESTION_TEXT::: Circle A is shown is defined by the equation $x^2 + (y-5)^2 = 7$. Circle B (not shown) has the same radius but is translated 91 units to the right. If the equation of circle B is $(x-h)^2 + (y-k)^2 = r$, where h, k, and r are constants, what is the value of k?
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 17
+QUESTION_TEXT::: The function h estimates an object's height, in feet, above the ground t seconds after the object is dropped, where b is a constant. The function estimates that the object is 40.96 feet above the ground when it is dropped at t = 0. How many seconds after being dropped does the function estimate the object will hit the ground?
+$h(t) = -16t^2 + b$
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 18
+QUESTION_TEXT::: The graph shows the total amount of rainfall y, in centimeters, from the start of a 10-hour period, where x is the number of hours after the start of the period. Which of the following statements about the rainfall during this time period is true?
+OPTIONS_START
+OPTION::: A) The rate of rainfall was 2 centimeters per hour between x=2 and x=4.
+OPTION::: B) The rate of rainfall was the greatest between x=4 and x=10.
+OPTION::: C) The rate of rainfall increased between x=0 and x=2.
+OPTION::: D) The rate of rainfall was 0 centimeters per hour between x=2 and x=4.
+CORRECT_ANSWER::: C
+NOTE::: Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 19
+QUESTION_TEXT::: For a set of three consecutive integers, the result of subtracting the greatest integer from the sum of the other two integers is 48. What is the value of the greatest of the three integers?
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 20
+QUESTION_TEXT::: A rectangular banner has an area of 2,300 square inches. a copy of the banner is made in which the length and width of the original banner are each increased by 20%. What is the area of the copy, in square inches?
+OPTIONS_START
+OPTION::: A) 2,320
+OPTION::: B) 2,340
+OPTION::: C) 2,760
+OPTION::: D) 3,312
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 21
+QUESTION_TEXT::: $(x-42)^2 = 1$
+What is the sum of the solutions to the given equation?
+OPTIONS_START
+OPTION::: A) 42
+OPTION::: B) 43
+OPTION::: C) 84
+OPTION::: D) 85
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 22
+QUESTION_TEXT::: In the given equation, k and n are constants and n > 1. The equation has no solution. What is the value of k?
+$5(kx-n) = - \frac{65}{12}x - \frac{85}{12}n$
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response
+QUESTION_END
+
+QUESTION_SECTION::: Section 2, Module 2: Math
+QUESTION_START
+QUESTION_NUMBER::: 1
+QUESTION_TEXT::: If $9 + x = 6$, what is the value of $-18 - 2x$?
+OPTIONS_START
+OPTION::: A) -12
+OPTION::: B) -2
+OPTION::: C) 6
+OPTION::: D) 24
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 2
+QUESTION_TEXT::: In the figure, line l is parallel to line m. What is the value of x?
+OPTIONS_START
+OPTION::: A) 31
+OPTION::: B) 69
+OPTION::: C) 111
+OPTION::: D) 131
+CORRECT_ANSWER::: C
+NOTE::: Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 3
+QUESTION_TEXT::: The graph of the linear function f is shown, where y = f(x). Which equation defines f?
+OPTIONS_START
+OPTION::: A) $f(x) = \frac{2}{3}x - 5$
+OPTION::: B) $f(x) = \frac{3}{2}x - 5$
+OPTION::: C) $f(x) = -\frac{2}{3}x - 5$
+OPTION::: D) $f(x) = -\frac{3}{2}x - 5$
+CORRECT_ANSWER::: C
+NOTE::: Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 4
+QUESTION_TEXT::: The function t gives the estimated melting temperature, in degrees Celsius, of a DNA molecule as a function of the percent of guanine-cytosine (GC) content, x, in the DNA molecule. The graph of y = t(x) is shown. According to the graph, which of the following statements is NOT true?
+OPTIONS_START
+OPTION::: A) For each increase of x by 1, t(x) increases by approximately 2/3.
+OPTION::: B) A DNA molecule with a GC content of 0% has an estimated melting temperature between 60°C and 65°C.
+OPTION::: C) A DNA molecule with a GC content of 95% has an estimated melting temperature between 100°C and 105°C.
+OPTION::: D) A DNA molecule with a GC content of 98% has an estimated melting temperature between 80°C and 90°C.
+CORRECT_ANSWER::: D
+NOTE::: Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 5
+QUESTION_TEXT::: In the xy-plane, line k is parallel to line l. Line k is defined by $y + 16 = 7x$. What is the slope of line l?
+OPTIONS_START
+OPTION::: A) -16
+OPTION::: B) -7
+OPTION::: C) 7
+OPTION::: D) 16
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 6
+QUESTION_TEXT::: Scientists collected fallen acorns that each housed a colony of the ant species P. ohioensis and analyzed each colony's structure. For any of these colonies, if the colony has x worker ants, the equation y = 0.67x + 2.6, where $20 \le x \le 110$, gives the predicted number of larvae, y, in the colony. If one of these colonies has 39 worker ants, which of the following is closest to the predicted number of larvae in the colony?
+OPTIONS_START
+OPTION::: A) 29
+OPTION::: B) 42
+OPTION::: C) 54
+OPTION::: D) 128
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 7
+QUESTION_TEXT::: $y > 5x - 4$
+For which of the following tables are all the values of x and their corresponding values of y solutions to the given inequality?
+OPTIONS_START
+OPTION::: A) table A
+OPTION::: B) table B
+OPTION::: C) table C
+OPTION::: D) table D
+CORRECT_ANSWER::: B
+NOTE::: Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 8
+QUESTION_TEXT::: The given equation relates the variables P, N, and C. Which expression represents the value of C for distinct positive values of P and N?
+$P = N(34-C)$
+OPTIONS_START
+OPTION::: A) $C + \frac{P}{N}$
+OPTION::: B) $34 + \frac{P}{N}$
+OPTION::: C) $34 - \frac{C}{N}$
+OPTION::: D) $34 - \frac{P}{N}$
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 9
+QUESTION_TEXT::: $x^2 - 15x + 12 = 0$
+What is the sum of the solutions to the given equation?
+OPTIONS_START
+OPTION::: A) 15
+OPTION::: B) 12
+OPTION::: C) 3
+OPTION::: D) 0
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 10
+QUESTION_TEXT::: The figure shown is a right rectangular pyramid, where l = 18 units, w = 9 units, and h = 12 units. What is the surface area, in square units, of the pyramid?
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response, Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 11
+QUESTION_TEXT::: The function $f(x) = \frac{1}{4}(x-6)^2 + 4$ gives a toy car's height above the ground $f(x)$, in inches, x seconds after it started moving on an elevated track, where $0 \le x \le 10$. Which of the following is the best interpretation of the vertex of the graph of y = f(x) in the xy-plane?
+OPTIONS_START
+OPTION::: A) The toy car's minimum height was 4 inches above the ground.
+OPTION::: B) The toy car's minimum height was 6 inches above the ground.
+OPTION::: C) The toy car's height was 4 inches above the ground when it started moving.
+OPTION::: D) The toy car's height was 6 inches above the ground when it started moving.
+CORRECT_ANSWER::: A
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 12
+QUESTION_TEXT::: In triangle QRS shown, $QR < RS$. Which expression represents the length of QS?
+OPTIONS_START
+OPTION::: A) 47 cos Q
+OPTION::: B) 47 sin Q
+OPTION::: C) $47/cos Q$
+OPTION::: D) $47/sin Q$
+CORRECT_ANSWER::: B
+NOTE::: Requires image.
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 13
+QUESTION_TEXT::: A researcher surveyed undergraduate students, graduate students, and postdoctoral students. The number of undergraduate students surveyed was 7,150% of the number of postdoctoral students surveyed and the number of graduate students surveyed was 45% of the number of undergraduate students surveyed. If there were 6,435 graduate students surveyed, what was the sum of the number of undergraduate students and postdoctoral students surveyed?
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 14
+QUESTION_TEXT::: $16x - 20y = 6y + 8$
+$ty = 8x + \frac{1}{4}$
+In the given system of equations, t is a constant. If the system has no solution, what is the value of t?
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 15
+QUESTION_TEXT::: The function f is defined by the given equation. If $g(x) = f(x+3)$, which of the following equations defines the function g?
+$f(x) = 7(4)^x$
+OPTIONS_START
+OPTION::: A) $g(x) = 21(4)^x$
+OPTION::: B) $g(x) = 448(4)^x$
+OPTION::: C) $g(x) = 21(12)^x$
+OPTION::: D) $g(x) = 343(64)^x$
+CORRECT_ANSWER::: B
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 16
+QUESTION_TEXT::: The bone mineral density of a certain person's thoracic spine was estimated to be 0.812 grams per square centimeter. What is this estimated bone mineral density in grams per square millimeter? (1 centimeter = 10 millimeters)
+OPTIONS_START
+OPTION::: A) 81.2
+OPTION::: B) 8.12
+OPTION::: C) 0.0812
+OPTION::: D) 0.00812
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 17
+QUESTION_TEXT::: Which expression is a factor of $49p^{10} - 121p^7$?
+OPTIONS_START
+OPTION::: A) $7p+11$
+OPTION::: B) $49p^2+121$
+OPTION::: C) $7p-11p^7$
+OPTION::: D) $-72p^{10}$
+CORRECT_ANSWER::: C
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 18
+QUESTION_TEXT::: In the given equation, k is a positive constant. The product of the solutions to the equation is 72. What is the value of k?
+$\frac{3}{5}(5x + \sqrt{5k})(x+\sqrt{5k}) = 0$
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 19
+QUESTION_TEXT::: A right rectangular prism has a base area of 36 square centimeters (cm$^2$). The length of the base of the rectangular prism is 9 cm, and the height of the rectangular prism is 6 cm. Which expression represents the surface area, in cm$^2$, of the right rectangular prism?
+OPTIONS_START
+OPTION::: A) $1124 + 36$
+OPTION::: B) $184 + 28$
+OPTION::: C) $1680 - 26$
+OPTION::: D) 168
+CORRECT_ANSWER::: D
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 20
+QUESTION_TEXT::: In the xy-plane, a unit circle with center at the origin O contains point A with coordinates (1, 0) and point B with coordinates $(\frac{1}{\sqrt{53}}, y)$. If the measure of angle AOB is $p$ radians, what is the value of $\frac{cos(p)}{sin(p)}$?
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 21
+QUESTION_TEXT::: The function h is defined by $h(x) = -\sqrt{x} + bx + c$ where b and c are constants. In the xy-plane, the graph of g = h(x) contains the points (2, 0) and (0, $-334$). If h(m) = 0, what is the greatest possible value of m?
+CORRECT_ANSWER::: 
+NOTE::: Student-produced response
+QUESTION_END
+
+QUESTION_START
+QUESTION_NUMBER::: 22
+QUESTION_TEXT::: A computer repair specialist charges $160 for the first two hours of repair plus an hourly fee for each additional hour. The total cost for 6 hours of repair is $360. Which function f gives the total cost, in dollars, for x hours of repair, where $x \ge 2$?
+OPTIONS_START
+OPTION::: A) $f(x) = 50(x-2) + 160$
+OPTION::: B) $f(x) = 50x + 160$
+OPTION::: C) $f(x) = 60x$
+OPTION::: D) $f(x) = 60x + 160$
+CORRECT_ANSWER::: A
+QUESTION_END

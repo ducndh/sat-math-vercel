@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { Plus, FileText, Users, BarChart3, Calendar, ExternalLink } from 'lucide-react'
+import { Plus, FileText, Users, BarChart3, Calendar, ExternalLink, Image as ImageIcon } from 'lucide-react'
 
 export default function AdminDashboard() {
   const [tests, setTests] = useState([])
@@ -65,6 +65,13 @@ export default function AdminDashboard() {
               className="px-4 py-2 text-gray-600 hover:text-gray-900 rounded-lg"
             >
               Create Test
+            </Link>
+            <Link 
+              href="/admin/image-manager"
+              className="inline-flex items-center gap-2 px-4 py-2 text-gray-600 hover:text-gray-900 rounded-lg"
+            >
+              <ImageIcon className="w-4 h-4" />
+              Image Manager
             </Link>
             <Link 
               href="/"

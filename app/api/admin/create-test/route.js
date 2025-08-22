@@ -1,4 +1,4 @@
-import { kv } from '@vercel/kv'
+import { put } from '@vercel/blob'
 import { NextResponse } from 'next/server'
 import { v4 as uuidv4 } from 'uuid'
 
@@ -32,8 +32,11 @@ export async function POST(request) {
       createdAt: new Date().toISOString(),
     }
 
-    // Store test in Vercel KV
-    await kv.set(`test:${testId}`, testData)
+    // Store test in Vercel Blob
+    await put(`tests/${testId}.json`, JSON.stringify(testData), {
+      access: 'public',
+      contentType: 'application/json',
+    })
 
     const baseUrl = request.headers.get('host')
     const protocol = request.headers.get('x-forwarded-proto') || 'https'

@@ -1,4 +1,4 @@
-import { kv } from '@vercel/kv'
+import { list, put } from '@vercel/blob'
 import { NextResponse } from 'next/server'
 import { v4 as uuidv4 } from 'uuid'
 
@@ -15,14 +15,17 @@ export async function POST(request) {
     }
 
     // Fetch the test to get correct answers
-    const testData = await kv.get(`test:${testId}`)
+    const { blobs } = await list({ prefix: `tests/${testId}.json`, limit: 1 })
     
-    if (!testData) {
+    if (blobs.length === 0) {
       return NextResponse.json(
         { error: 'Test not found' },
         { status: 404 }
       )
     }
+
+    const response = await fetch(blobs[0].url)
+    const testData = await response.json()
 
     // Calculate score
     let correctAnswers = 0
@@ -60,8 +63,11 @@ export async function POST(request) {
       submittedAt: new Date().toISOString()
     }
 
-    // Store result in Vercel KV
-    await kv.set(`result:${resultId}`, resultData)
+    // Store result in Vercel Blob
+    await put(`results/${resultId}.json`, JSON.stringify(resultData), {
+      access: 'public',
+      contentType: 'application/json',
+    })
 
     return NextResponse.json({
       resultId,

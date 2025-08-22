@@ -1,0 +1,41 @@
+SAT PRACTICE PLATFORM - HANDOFF CONTEXT
+=====================================
+Date: August 22, 2025
+Project: SAT Math Practice Platform (Vercel deployment)
+
+CURRENT STATUS:
+✅ COMPLETED TASKS:
+- Updated ALL API routes from Vercel KV to Vercel Blob storage
+- Created comprehensive image requirements analysis tool
+- Identified 42 questions across 4 tests that need images (11% of total)
+- Upload script is ready and compatible with current architecture
+
+🔄 IN PROGRESS:
+- Need to upload 4 test files to Vercel Blob (requires env setup)
+- Need to test rendering on website
+
+📋 TEST FILES TO UPLOAD:
+1. June 2025 US 1.txt (95 questions, 14 need images)
+2. June 2025 US 2.txt (98 questions, 7 need images) 
+3. March 2025 US 1.txt (95 questions, 9 need images)
+4. May 2025 INT 1.txt (98 questions, 12 need images)
+
+KEY ARCHITECTURE CHANGE:
+- Switched from Vercel KV to Vercel Blob for ALL data storage
+- Tests stored as: tests/{testId}.json
+- Results stored as: results/{resultId}.json
+- Updated routes: /api/test/[testId], /api/admin/create-test, /api/test/submit, etc.
+
+NEXT STEPS NEEDED:
+1. Set up Vercel environment (vercel login, vercel env pull)
+2. Run: node scripts/upload-tests.js
+3. Test website rendering of uploaded tests
+4. Verify all 4 tests work correctly
+
+TOOLS AVAILABLE:
+- scripts/upload-tests.js - uploads all 4 tests to Blob
+- scripts/analyze-image-requirements.js - lists missing images
+- Enhanced parser handles the structured test format
+
+CRITICAL: The upload script is ready but needs Vercel CLI setup first.
+All API routes have been updated to use Blob storage instead of KV.

@@ -1,4 +1,4 @@
-import { kv } from '@vercel/kv'
+import { list } from '@vercel/blob'
 import { NextResponse } from 'next/server'
 
 export async function GET(request, { params }) {
@@ -12,15 +12,20 @@ export async function GET(request, { params }) {
       )
     }
 
-    // Get all result keys
-    const keys = await kv.keys('result:*')
+    // Get all result blobs and filter by testId
+    const { blobs } = await list({ prefix: 'results/', limit: 1000 })
     const results = []
 
     // Fetch all results and filter by testId
-    for (const key of keys) {
-      const result = await kv.get(key)
-      if (result && result.testId === testId) {
-        results.push(result)
+    for (const blob of blobs) {
+      try {
+        const response = await fetch(blob.url)
+        const result = await response.json()
+        if (result && result.testId === testId) {
+          results.push(result)
+        }
+      } catch (err) {
+        console.warn('Failed to parse result blob:', blob.pathname)
       }
     }
 

@@ -1,0 +1,1384 @@
+{
+  "generatedAt": "2025-08-22T22:44:48.913Z",
+  "summary": {
+    "totalTests": 4,
+    "totalQuestions": 386,
+    "questionsRequiringImages": 42,
+    "testBreakdown": [
+      {
+        "filename": "June 2025 US 1.txt",
+        "testName": "June 2025 US 1",
+        "totalQuestions": 95,
+        "questionsWithImages": 14,
+        "percentage": 15,
+        "sections": [
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 27,
+            "questionsWithImages": 2,
+            "percentage": 7
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 24,
+            "questionsWithImages": 1,
+            "percentage": 4
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 22,
+            "questionsWithImages": 6,
+            "percentage": 27
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 22,
+            "questionsWithImages": 5,
+            "percentage": 23
+          }
+        ]
+      },
+      {
+        "filename": "June 2025 US 2.txt",
+        "testName": "June 2025 US 2",
+        "totalQuestions": 98,
+        "questionsWithImages": 7,
+        "percentage": 7,
+        "sections": [
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 27,
+            "questionsWithImages": 2,
+            "percentage": 7
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 27,
+            "questionsWithImages": 2,
+            "percentage": 7
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 22,
+            "questionsWithImages": 2,
+            "percentage": 9
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 22,
+            "questionsWithImages": 1,
+            "percentage": 5
+          }
+        ]
+      },
+      {
+        "filename": "March 2025 US 1.txt",
+        "testName": "March 2025 US 1",
+        "totalQuestions": 95,
+        "questionsWithImages": 9,
+        "percentage": 9,
+        "sections": [
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 1,
+            "percentage": 100
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 1,
+            "percentage": 100
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 1,
+            "percentage": 100
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 1,
+            "percentage": 100
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 1,
+            "percentage": 100
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 1,
+            "percentage": 100
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 1,
+            "percentage": 100
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 1,
+            "percentage": 100
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 1,
+            "percentage": 100
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 1,
+            "questionsWithImages": 0,
+            "percentage": 0
+          }
+        ]
+      },
+      {
+        "filename": "May 2025 INT 1.txt",
+        "testName": "May 2025 INT 1",
+        "totalQuestions": 98,
+        "questionsWithImages": 12,
+        "percentage": 12,
+        "sections": [
+          {
+            "name": "Section 1, Module 1: Reading and Writing",
+            "totalQuestions": 27,
+            "questionsWithImages": 2,
+            "percentage": 7
+          },
+          {
+            "name": "Section 1, Module 2: Reading and Writing",
+            "totalQuestions": 27,
+            "questionsWithImages": 1,
+            "percentage": 4
+          },
+          {
+            "name": "Section 2, Module 1: Math",
+            "totalQuestions": 22,
+            "questionsWithImages": 3,
+            "percentage": 14
+          },
+          {
+            "name": "Section 2, Module 2: Math",
+            "totalQuestions": 22,
+            "questionsWithImages": 6,
+            "percentage": 27
+          }
+        ]
+      }
+    ]
+  },
+  "requirements": [
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 1, Module 1: Reading and Writing",
+      "questionId": 11,
+      "filename": "test_s1m1_q11.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 1, Module 1: Reading and Writing",
+      "questionId": 13,
+      "filename": "test_s1m1_q13.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 1, Module 2: Reading and Writing",
+      "questionId": 10,
+      "filename": "test_s1m1_q10.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 1,
+      "filename": "test_s1m1_q1.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 2,
+      "filename": "test_s1m1_q2.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 6,
+      "filename": "test_s1m1_q6.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 9,
+      "filename": "test_s1m1_q9.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 11,
+      "filename": "test_s1m1_q11.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 22,
+      "filename": "test_s1m1_q22.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 2,
+      "filename": "test_s1m1_q2.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 3,
+      "filename": "test_s1m1_q3.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 9,
+      "filename": "test_s1m1_q9.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 11,
+      "filename": "test_s1m1_q11.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 15,
+      "filename": "test_s1m1_q15.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 2",
+      "section": "Section 1, Module 1: Reading and Writing",
+      "questionId": 11,
+      "filename": "test_s1m1_q11.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 2",
+      "section": "Section 1, Module 1: Reading and Writing",
+      "questionId": 13,
+      "filename": "test_s1m1_q13.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 2",
+      "section": "Section 1, Module 2: Reading and Writing",
+      "questionId": 10,
+      "filename": "test_s1m1_q10.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 2",
+      "section": "Section 1, Module 2: Reading and Writing",
+      "questionId": 13,
+      "filename": "test_s1m1_q13.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 2",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 1,
+      "filename": "test_s1m1_q1.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 2",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 2,
+      "filename": "test_s1m1_q2.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "June 2025 US 2",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 9,
+      "filename": "test_s1m1_q9.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "March 2025 US 1",
+      "section": "Section 1, Module 1: Reading and Writing",
+      "questionId": 14,
+      "filename": "test_s1m1_q14.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "March 2025 US 1",
+      "section": "Section 1, Module 2: Reading and Writing",
+      "questionId": 9,
+      "filename": "test_s1m1_q9.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "March 2025 US 1",
+      "section": "Section 1, Module 2: Reading and Writing",
+      "questionId": 11,
+      "filename": "test_s1m1_q11.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "March 2025 US 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 2,
+      "filename": "test_s1m1_q2.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "March 2025 US 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 5,
+      "filename": "test_s1m1_q5.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "March 2025 US 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 21,
+      "filename": "test_s1m1_q21.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "March 2025 US 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 12,
+      "filename": "test_s1m1_q12.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "March 2025 US 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 14,
+      "filename": "test_s1m1_q14.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "March 2025 US 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 10,
+      "filename": "test_s1m1_q10.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 1, Module 1: Reading and Writing",
+      "questionId": 11,
+      "filename": "test_s1m1_q11.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 1, Module 1: Reading and Writing",
+      "questionId": 12,
+      "filename": "test_s1m1_q12.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 1, Module 2: Reading and Writing",
+      "questionId": 9,
+      "filename": "test_s1m1_q9.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 9,
+      "filename": "test_s1m1_q9.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 15,
+      "filename": "test_s1m1_q15.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 2, Module 1: Math",
+      "questionId": 18,
+      "filename": "test_s1m1_q18.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 2,
+      "filename": "test_s1m1_q2.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 3,
+      "filename": "test_s1m1_q3.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 4,
+      "filename": "test_s1m1_q4.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 7,
+      "filename": "test_s1m1_q7.png",
+      "description": "General image required",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 10,
+      "filename": "test_s1m1_q10.png",
+      "description": "Student-produced response with image",
+      "type": "question"
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "section": "Section 2, Module 2: Math",
+      "questionId": 12,
+      "filename": "test_s1m1_q12.png",
+      "description": "General image required",
+      "type": "question"
+    }
+  ],
+  "groupedByTest": [
+    {
+      "testName": "June 2025 US 1",
+      "requirements": [
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 1, Module 1: Reading and Writing",
+          "questionId": 11,
+          "filename": "test_s1m1_q11.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 1, Module 1: Reading and Writing",
+          "questionId": 13,
+          "filename": "test_s1m1_q13.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 1, Module 2: Reading and Writing",
+          "questionId": 10,
+          "filename": "test_s1m1_q10.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 1,
+          "filename": "test_s1m1_q1.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 2,
+          "filename": "test_s1m1_q2.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 6,
+          "filename": "test_s1m1_q6.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 9,
+          "filename": "test_s1m1_q9.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 11,
+          "filename": "test_s1m1_q11.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 22,
+          "filename": "test_s1m1_q22.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 2,
+          "filename": "test_s1m1_q2.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 3,
+          "filename": "test_s1m1_q3.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 9,
+          "filename": "test_s1m1_q9.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 11,
+          "filename": "test_s1m1_q11.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 15,
+          "filename": "test_s1m1_q15.png",
+          "description": "General image required",
+          "type": "question"
+        }
+      ]
+    },
+    {
+      "testName": "June 2025 US 2",
+      "requirements": [
+        {
+          "testName": "June 2025 US 2",
+          "section": "Section 1, Module 1: Reading and Writing",
+          "questionId": 11,
+          "filename": "test_s1m1_q11.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 2",
+          "section": "Section 1, Module 1: Reading and Writing",
+          "questionId": 13,
+          "filename": "test_s1m1_q13.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 2",
+          "section": "Section 1, Module 2: Reading and Writing",
+          "questionId": 10,
+          "filename": "test_s1m1_q10.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 2",
+          "section": "Section 1, Module 2: Reading and Writing",
+          "questionId": 13,
+          "filename": "test_s1m1_q13.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 2",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 1,
+          "filename": "test_s1m1_q1.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 2",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 2,
+          "filename": "test_s1m1_q2.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "June 2025 US 2",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 9,
+          "filename": "test_s1m1_q9.png",
+          "description": "General image required",
+          "type": "question"
+        }
+      ]
+    },
+    {
+      "testName": "March 2025 US 1",
+      "requirements": [
+        {
+          "testName": "March 2025 US 1",
+          "section": "Section 1, Module 1: Reading and Writing",
+          "questionId": 14,
+          "filename": "test_s1m1_q14.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "March 2025 US 1",
+          "section": "Section 1, Module 2: Reading and Writing",
+          "questionId": 9,
+          "filename": "test_s1m1_q9.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "March 2025 US 1",
+          "section": "Section 1, Module 2: Reading and Writing",
+          "questionId": 11,
+          "filename": "test_s1m1_q11.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "March 2025 US 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 2,
+          "filename": "test_s1m1_q2.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "March 2025 US 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 5,
+          "filename": "test_s1m1_q5.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "March 2025 US 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 21,
+          "filename": "test_s1m1_q21.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "March 2025 US 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 12,
+          "filename": "test_s1m1_q12.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "March 2025 US 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 14,
+          "filename": "test_s1m1_q14.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "March 2025 US 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 10,
+          "filename": "test_s1m1_q10.png",
+          "description": "General image required",
+          "type": "question"
+        }
+      ]
+    },
+    {
+      "testName": "May 2025 INT 1",
+      "requirements": [
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 1, Module 1: Reading and Writing",
+          "questionId": 11,
+          "filename": "test_s1m1_q11.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 1, Module 1: Reading and Writing",
+          "questionId": 12,
+          "filename": "test_s1m1_q12.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 1, Module 2: Reading and Writing",
+          "questionId": 9,
+          "filename": "test_s1m1_q9.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 9,
+          "filename": "test_s1m1_q9.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 15,
+          "filename": "test_s1m1_q15.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 2, Module 1: Math",
+          "questionId": 18,
+          "filename": "test_s1m1_q18.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 2,
+          "filename": "test_s1m1_q2.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 3,
+          "filename": "test_s1m1_q3.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 4,
+          "filename": "test_s1m1_q4.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 7,
+          "filename": "test_s1m1_q7.png",
+          "description": "General image required",
+          "type": "question"
+        },
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 10,
+          "filename": "test_s1m1_q10.png",
+          "description": "Student-produced response with image",
+          "type": "question"
+        },
+        {
+          "testName": "May 2025 INT 1",
+          "section": "Section 2, Module 2: Math",
+          "questionId": 12,
+          "filename": "test_s1m1_q12.png",
+          "description": "General image required",
+          "type": "question"
+        }
+      ]
+    }
+  ]
+}

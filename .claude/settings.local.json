@@ -5,7 +5,19 @@
       "Bash(git init:*)",
       "Bash(git add:*)",
       "Bash(git push:*)",
-      "Bash(gh:*)"
+      "Bash(gh:*)",
+      "Bash(vercel env pull:*)",
+      "Bash(vercel link:*)",
+      "WebFetch(domain:sat-math-vercel-5tcg75rik-duke-nguyens-projects-5d0fc19e.vercel.app)",
+      "Bash(vercel ls:*)",
+      "Bash(npm run dev:*)",
+      "Bash(node:*)",
+      "Bash(vercel:*)",
+      "WebSearch",
+      "mcp__zen__chat",
+      "Bash(curl:*)",
+      "Bash(npm:*)",
+      "WebFetch(domain:sat-math-vercel.vercel.app)"
     ],
     "deny": []
   }
