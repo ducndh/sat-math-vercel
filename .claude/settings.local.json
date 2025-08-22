@@ -17,7 +17,8 @@
       "mcp__zen__chat",
       "Bash(curl:*)",
       "Bash(npm:*)",
-      "WebFetch(domain:sat-math-vercel.vercel.app)"
+      "WebFetch(domain:sat-math-vercel.vercel.app)",
+      "Bash(git commit:*)"
     ],
     "deny": []
   }
