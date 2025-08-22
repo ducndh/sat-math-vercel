@@ -5,6 +5,7 @@ export async function GET() {
   try {
     // Get all test blobs
     const { blobs } = await list({ prefix: 'tests/', limit: 1000 })
+    console.log('Blobs found:', blobs); // Added for debugging
     const tests = []
 
     // Fetch all tests
@@ -21,12 +22,14 @@ export async function GET() {
           })
         }
       } catch (err) {
-        console.warn('Failed to parse test blob:', blob.pathname)
+        console.warn('Failed to parse test blob:', blob.pathname, err) // Added error logging
       }
     }
 
     // Sort by creation date (newest first)
     tests.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt))
+
+    console.log('Returning tests:', tests); // Added for debugging
 
     return NextResponse.json({
       tests,
